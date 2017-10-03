@@ -1,0 +1,11 @@
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\05. Boolean Variable\obj\Debug\05. Boolean Variable.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb

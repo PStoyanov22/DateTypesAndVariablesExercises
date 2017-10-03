@@ -1,0 +1,10 @@
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe.config
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\Problem 01\bin\Debug\Problem 01.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\Problem 01\bin\Debug\Problem 01.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\Problem 01\bin\Debug\Problem 01.pdb
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\Problem 01\obj\Debug\Problem 01.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\Problem 01\obj\Debug\Problem 01.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\Problem 01\obj\Debug\Problem 01.pdb

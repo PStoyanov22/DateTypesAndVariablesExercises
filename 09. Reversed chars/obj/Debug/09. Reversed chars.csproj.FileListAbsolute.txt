@@ -1,0 +1,5 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

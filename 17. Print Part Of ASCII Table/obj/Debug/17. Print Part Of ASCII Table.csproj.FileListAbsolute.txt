@@ -1,0 +1,6 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\17. Print Part Of ASCII Table\obj\Debug\17. Print Part Of ASCII Table.csprojResolveAssemblyReference.cache

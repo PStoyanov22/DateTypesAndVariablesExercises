@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\04.  Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\04.  Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\04.  Variable in Hexadecimal Format\bin\Debug\_04.Variable_in_Hexadecimal_Format.pdb
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\04.  Variable in Hexadecimal Format\obj\Debug\04.  Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\04.  Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\04.  Variable in Hexadecimal Format\obj\Debug\_04.Variable_in_Hexadecimal_Format.pdb

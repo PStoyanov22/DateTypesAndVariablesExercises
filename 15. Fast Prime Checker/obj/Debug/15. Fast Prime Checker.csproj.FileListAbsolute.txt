@@ -1,0 +1,5 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb

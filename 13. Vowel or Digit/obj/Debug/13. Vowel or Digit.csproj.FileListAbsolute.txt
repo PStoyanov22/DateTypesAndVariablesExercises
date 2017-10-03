@@ -1,0 +1,6 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\13. Vowel or Digit\obj\Debug\13. Vowel or Digit.csprojResolveAssemblyReference.cache

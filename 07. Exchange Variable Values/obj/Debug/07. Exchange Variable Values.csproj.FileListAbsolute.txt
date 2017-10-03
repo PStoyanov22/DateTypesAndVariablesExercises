@@ -1,0 +1,5 @@
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
+c:\users\petar\documents\visual studio 2017\Projects\Data Types And Variables\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

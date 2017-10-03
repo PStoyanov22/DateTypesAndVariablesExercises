@@ -1,0 +1,6 @@
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\19\bin\Debug\19.exe.config
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\19\bin\Debug\19.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\19\bin\Debug\19.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\19\obj\Debug\19. Thea The Photographer.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\19\obj\Debug\19.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\19\obj\Debug\19.pdb

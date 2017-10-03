@@ -1,0 +1,12 @@
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\18. Different Integers Size\obj\Debug\18. Different Integers Size.csprojResolveAssemblyReference.cache
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+C:\Users\Petar\documents\visual studio 2017\Projects\Data Types And Variables\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\18. Different Integers Size\obj\Debug\18. Different Integers Size.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+C:\Users\Petar\Documents\Visual Studio 2017\Projects\Data Types And Variables Execrcises\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb
